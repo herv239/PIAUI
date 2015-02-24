@@ -1,4 +1,4 @@
-#!/bin/bash
+﻿#!/bin/bash
 
 #Script to make install of AUI Suite very easy
 function dependencies() {
@@ -259,7 +259,4 @@ else
     youtube "$DIR" "$USER_HOME"
     voicecommand_install "$DIR" "$USER_HOME"
 fi
-
-
-
 
